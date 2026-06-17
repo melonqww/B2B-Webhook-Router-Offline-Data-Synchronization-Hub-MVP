@@ -726,8 +726,6 @@ enterprise-b2b-automation-hub/
 ---
 
 <p align="center">
-  Erstellt mit ❤️ für das Upwork-Portfolio.
-  <br>
   <a href="README.md">Read in English</a> ·
   <a href="README.es.md">Leer en Español</a>
 </p>
